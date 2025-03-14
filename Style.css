@@ -1,0 +1,147 @@
+.container{
+    width: 91%;
+    height: 435px;
+    border: 6px solid #050505;
+    margin-left: 100px;
+    border-radius: 0%;
+  }
+
+  .converse{
+    text-align: center;
+    background-color:  rgb(223, 220, 216);
+    height: 70px;
+    bottom: 20px;
+    position: relative;
+  }
+
+  .container img{
+    height: 300px;
+     width: 310px;
+     position: relative;
+     bottom: 20px;
+    
+  }
+
+  .mont{
+    position: relative;
+         margin-left: 30%;
+         bottom:330px;
+  }
+
+  .reade{
+    position: relative;
+         margin-left: 30%;
+         bottom:330px; 
+  }
+
+  .free{
+    position: relative;
+    margin-left: 50%;
+    bottom:450px;
+    color: rgb(170, 168, 165); 
+  }
+
+  .produit{
+    position: relative;
+    margin-left: 70%;
+    bottom:480px; 
+  }
+
+  .more{
+    position: relative;
+         margin-left: 30%;
+         bottom:550px; 
+  }
+
+   
+ 
+  .add{
+    text-align: center;
+    position: relative;
+    margin-left: 0%;
+    bottom:541px; 
+    background-color: black;
+    color: white;
+    height: 70px;
+    justify-content: center;
+  }
+
+  .add:hover{
+    background-color: white;
+    color: #050505;
+  }
+
+  .sale{
+    text-align: center;
+    position: relative;
+    margin-left: -2%;
+    bottom:423px; 
+    background-color: #fd0909;
+    height: px;
+    width: 50px;
+  }
+
+
+  .pour{
+    display: flex;
+  }
+
+  .noir{
+    background-color: #050505;
+    height: 20px;
+    width: 20px;
+    position: relative;
+         margin-left: 30%;
+         bottom:550px; 
+        
+  }
+
+  .blue{
+    background-color: #2f0ad1;
+    height: 20px;
+    width: 20px;
+    position: relative;
+         margin-left: 1%;
+         bottom:550px;
+  }
+
+  .rouge{
+      background-color: #f30303;
+      height: 20px;
+      width: 20px;
+      position: relative;
+         margin-left: 1%;
+         bottom:550px;
+  }
+
+  .orange{
+    background-color: #df8004de;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    margin-left: 1%;
+    bottom:550px;
+}
+
+.vert{
+  background-color: #038338;
+  height: 20px;
+  width: 20px;
+  position: relative;
+  margin-left: 1%;
+  bottom:550px;
+}
+
+.marron{
+  background-color: #993434;
+  height: 20px;
+  width: 20px;
+  position: relative;
+  margin-left: 1%;
+  bottom:550px;
+}
+
+@media (max-width) {
+  
+  
+}
